@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tearoww
+- 👋 Hi, I’m @tearoww
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning C# in school
 - 💞️ I’m not looking to collaborate at this time
